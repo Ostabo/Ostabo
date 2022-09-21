@@ -9,4 +9,4 @@ student@HTWG-Konstanz 👨‍🎓
 
 [![Ostabo's github trophy](https://github-profile-trophy.vercel.app/?username=Ostabo&count_private=true)](https://ostabo.software)
 ### 🤹🏻 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,sass,java,scala,spring,python,c,kotlin,postgres,mysql,docker,github,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,sass,java,scala,spring,python,c,cpp,cs,kotlin,postgres,mysql,docker,github,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
