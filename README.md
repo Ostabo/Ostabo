@@ -1,5 +1,9 @@
 ## Hi there 👋
-student@HTWG-Konstanz 👨‍🎓
+📅 Currently I'm a...<br>
+<ul>
+  <li>student@HTWG-Konstanz 👨‍🎓</li>
+  <li>student-trainee@<a href="https://skillworks.de">Skillworks-AG</a></li>
+</ul>
 
 ### 📊 Stats
 [![Ostabo's github stats](https://github-readme-stats.vercel.app/api?username=Ostabo&theme=react&count_private=true&show_icons=true)](https://ostabo.software)
