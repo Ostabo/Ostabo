@@ -16,7 +16,7 @@
     </td>
     <td>
       <div align="center">
-  <a href="https://ostabo.software"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
+  <a href="https://ostabo.software"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact" alt="Ostabo's top languages"></a>
       </div>
     </td>
   </tr>
@@ -35,6 +35,7 @@
     </td>
   </tr>
 </table>
+Credit: <a href="https://github.com/anuraghazra/github-readme-stats">Github ReadMe Stats</a>
 
 ## 🤹🏻 Skills & Tools
 
