@@ -39,4 +39,4 @@ Credit: <a href="https://github.com/anuraghazra/github-readme-stats">Github Read
 
 ## 🤹🏻 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,sass,java,scala,spring,python,c,cpp,cs,kotlin,postgres,mysql,docker,github,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,sass,java,scala,spring,python,c,cpp,cs,kotlin,postgres,mysql,docker,github,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
