@@ -26,6 +26,10 @@
       <a href="https://ostabo.software"><img src="https://streak-stats.demolab.com/?user=Ostabo&theme=react&count_private=true" alt"Ostabo's Streaks"></a>
       </div>
     </td>
+    <td>
+      <h3 align="center">🤡JOTD - Joke of the Day</h3>
+      <img src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD">
+    </td>
   </tr>
   <tr>
     <td>
