@@ -26,7 +26,7 @@
       <a href="https://ostabo.software"><img src="https://streak-stats.demolab.com/?user=Ostabo&theme=react&count_private=true" alt"Ostabo's Streaks"></a>
       </div>
     </td>
-    <td>
+    <td rowspan="2">
       <h3 align="center">🤡JOTD - Joke of the Day</h3>
       <img src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD">
     </td>
@@ -43,4 +43,4 @@ Credit: <a href="https://github.com/anuraghazra/github-readme-stats">Github Read
 
 ## 🤹🏻 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,sass,java,scala,spring,python,c,cpp,cs,cmake,kotlin,postgres,mysql,docker,github,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,sass,java,scala,spring,maven,python,c,cpp,cs,cmake,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
