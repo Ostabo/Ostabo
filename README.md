@@ -39,7 +39,6 @@
     </td>
   </tr>
 </table>
-Credit: <a href="https://github.com/anuraghazra/github-readme-stats">Github ReadMe Stats</a>
 
 ## 🤹🏻 Skills & Tools
 
