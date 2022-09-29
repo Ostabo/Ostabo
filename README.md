@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Welcome to my Profile and 🦆 you
 ### 📅 Currently I'm a...<br>
 <ul>
   <li>student@HTWG-Konstanz 👨‍🎓</li>
