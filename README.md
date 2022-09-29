@@ -28,7 +28,7 @@
     </td>
     <td rowspan="2">
       <h3 align="center">🤡JOTD - Joke of the Day</h3>
-      <img src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD">
+      <img src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD" width="100%" height="auto">
     </td>
   </tr>
   <tr>
@@ -43,4 +43,4 @@ Credit: <a href="https://github.com/anuraghazra/github-readme-stats">Github Read
 
 ## 🤹🏻 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,sass,java,scala,spring,maven,python,c,cpp,cs,cmake,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,nuxtjs,sass,java,scala,spring,maven,python,c,cpp,cs,cmake,matlab,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
