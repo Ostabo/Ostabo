@@ -1,4 +1,4 @@
-# 👋 Welcome to my Profile and 🦆 you
+# 👋 Welcome to my Profile and now 🦆 you
 ### 📅 Currently I'm a...<br>
 <ul>
   <li>student@HTWG-Konstanz 👨‍🎓</li>
@@ -42,4 +42,4 @@
 
 ## 🤹🏻 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,nuxtjs,sass,java,scala,spring,maven,python,c,cpp,cs,cmake,matlab,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,nuxtjs,sass,java,scala,spring,maven,python,c,cpp,cs,kotlin,cmake,matlab,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
