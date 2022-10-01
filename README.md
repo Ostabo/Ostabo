@@ -27,8 +27,8 @@
       </div>
     </td>
     <td rowspan="2">
-      <p align="center">🤡JOTD - Joke of the Day</p>
       <img align="center" src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD" >
+      <h4 align="center">🤡Joke of the Day⬆️</h4>
     </td>
   </tr>
   <tr>
