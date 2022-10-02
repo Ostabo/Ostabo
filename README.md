@@ -1,4 +1,4 @@
-# 👋 Welcome to my Profile and now 🦆 you
+# 👋 Welcome to my Profile here is a duck: 🦆
 ### 📅 Currently I'm a...<br>
 <ul>
   <li>student@HTWG-Konstanz 👨‍🎓</li>
