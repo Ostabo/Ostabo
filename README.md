@@ -1,9 +1,11 @@
 # 👋 Welcome to my Profile here is a duck: 🦆
+
 ### 📅 Currently I'm a...<br>
 <ul>
   <li>student@HTWG-Konstanz 👨‍🎓</li>
   <li>student-trainee@<a href="https://skillworks.de">Skillworks-AG</a></li>
 </ul>
+
 
 ## 📊 Stats
 
@@ -38,6 +40,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 🤹🏻 Skills & Tools
 
