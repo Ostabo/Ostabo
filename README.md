@@ -1,4 +1,4 @@
-# 👋 Welcome to my Profile here is a duck 🦆
+# 👋 Welcome to my Profile here is a duck: 🦆
 
 ### 📅 Currently I'm a...<br>
 <ul>
