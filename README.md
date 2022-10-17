@@ -46,6 +46,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,nuxtjs,sass,java,scala,spring,maven,python,c,cpp,cs,kotlin,cmake,matlab,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
 
-***
-### 🎌 DUCK ARMY GO BRRR ✊🦆
-🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
