@@ -17,9 +17,19 @@
       <a href="https://ostabo.software"><img style="justify-self:center" src="https://github-readme-stats.vercel.app/api?username=Ostabo&theme=react&count_private=true&show_icons=true" alt="Ostabo's github stats"></a>
       </div>
     </td>
-    <td>
+    <td rowspan=2>
       <div align="center">
   <a href="https://ostabo.software"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align:"center">
+      <div align="center">
+        👋 Hello Visitor Nr
+      </div>
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/Ostabo/count.svg?" />
       </div>
     </td>
   </tr>
@@ -56,9 +66,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ostabo/Ostabo/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ostabo/count.svg?" />
 </div>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1lyg6oqikdo68gq8e5enlguul" />
