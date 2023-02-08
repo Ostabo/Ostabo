@@ -47,12 +47,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,vue,nuxtjs,vite,sass,bootstrap,java,scala,spring,maven,python,c,cpp,cs,kotlin,cmake,matlab,postgres,mysql,docker,git,github,githubactions,jenkins,idea,vscode,latex,regex,bash,powershell,stackoverflow)](https://skillicons.dev)
 
 ***
-<img src="https://raw.githubusercontent.com/Ostabo/Ostabo/blob/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ostabo/Ostabo/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ostabo/count.svg?" />
 </div>
-
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1lyg6oqikdo68gq8e5enlguul" />
 </div>
