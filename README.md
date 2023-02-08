@@ -36,7 +36,7 @@
   <tr>
     <td>
       <div align="center">
-      <a href="https://ostabo.software"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=gitdimmed&count_private=true" alt"Ostabo's Trophies"></a>
+      <a href="https://ostabo.software"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=gitdimmed&count_private=true&row=1" alt"Ostabo's Trophies"></a>
       </div>
     </td>
   </tr>
