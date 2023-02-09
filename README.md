@@ -14,12 +14,12 @@
   <tr>
     <td align:"center">
       <div align="center">
-      <a href="https://ostabo.software"><img style="justify-self:center" src="https://github-readme-stats.vercel.app/api?username=Ostabo&theme=react&count_private=true&show_icons=true" alt="Ostabo's github stats"></a>
+      <a href="https://ostabo.software"><img style="justify-self:center" src="https://github-readme-stats.vercel.app/api?username=Ostabo&theme=algolia&count_private=true&show_icons=true" alt="Ostabo's github stats"></a>
       </div>
     </td>
     <td rowspan=2>
       <div align="center">
-  <a href="https://ostabo.software"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
+  <a href="https://ostabo.software"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
       </div>
     </td>
   </tr>
@@ -36,17 +36,17 @@
   <tr>
     <td>
       <div align="center">
-      <a href="https://ostabo.software"><img src="https://streak-stats.demolab.com/?user=Ostabo&theme=react&count_private=true" alt"Ostabo's Streaks"></a>
+      <a href="https://ostabo.software"><img src="https://streak-stats.demolab.com/?user=Ostabo&theme=algolia&count_private=true" alt"Ostabo's Streaks"></a>
       </div>
     </td>
     <td rowspan="2">
-      <img align="center" src="https://readme-jokes.vercel.app/api?theme=react" alt="JOTD" >
+      <img align="center" src="https://readme-jokes.vercel.app/api?theme=algolia" alt="JOTD" >
     </td>
   </tr>
   <tr>
     <td>
       <div align="center">
-      <a href="https://ostabo.software"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=gitdimmed&count_private=true&row=1" alt"Ostabo's Trophies"></a>
+      <a href="https://ostabo.software"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=algolia&count_private=true&row=1" alt"Ostabo's Trophies"></a>
       </div>
     </td>
   </tr>
@@ -73,7 +73,18 @@
 
 ***
 
-## Duck Army assemble ⚔️🦆🪖
-🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
-
-***
+## Duck Army assembled! ⚔️🦆🪖
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
+    </td>
+    <td text-align="justify">
+      <p align="justify">
+        🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
+       </p>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
+    </td>
+  </tr>
