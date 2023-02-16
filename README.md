@@ -7,7 +7,6 @@
 </ul>
 
 ***
-
 ## 📊 Stats
 
 <table>
@@ -51,6 +50,10 @@
     </td>
   </tr>
 </table>
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</div>
 
 ***
 
@@ -63,10 +66,10 @@
 </div>
 
 ***
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ostabo/Ostabo/output/github-contribution-grid-snake-dark.svg" />
 </div>
+<br/>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1lyg6oqikdo68gq8e5enlguul" />
 </div>
