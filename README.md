@@ -73,6 +73,10 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1lyg6oqikdo68gq8e5enlguul" />
 </div>
+</br>
+<div align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ostabo&theme=github-compact&hide_title=true" />
+</div>
 
 ***
 
