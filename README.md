@@ -38,14 +38,14 @@
       <a href="https://ostabo.com"><img src="https://streak-stats.demolab.com/?user=Ostabo&theme=algolia&count_private=true" alt"Ostabo's Streaks"></a>
       </div>
     </td>
-    <td rowspan="2">
+    <td rowspan="1" align="center">
       <img align="center" src="https://readme-jokes.vercel.app/api?theme=algolia" alt="JOTD" >
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <div align="center">
-      <a href="https://ostabo.com"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=algolia&count_private=true&row=1" alt"Ostabo's Trophies"></a>
+      <a href="https://ostabo.com"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=algolia&count_private=true&row=1&margin-w=10" alt"Ostabo's Trophies"></a>
       </div>
     </td>
   </tr>
