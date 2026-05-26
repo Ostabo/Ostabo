@@ -18,7 +18,7 @@
     </td>
     <td rowspan=2>
       <div align="center">
-  <a href="https://ostabo.com"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
+  <a href="https://ostabo.com"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ostabo&langs_count=10&hide=jupyter%20notebook,cypher&count_private=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Ostabo's top languages"></a>
       </div>
     </td>
   </tr>
