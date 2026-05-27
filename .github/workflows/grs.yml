@@ -18,6 +18,13 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=algolia&count_private=true&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: ./profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
