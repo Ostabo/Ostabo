@@ -24,6 +24,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           output_path: trophy.svg
+          theme: algolia
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
