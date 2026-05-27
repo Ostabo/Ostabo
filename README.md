@@ -13,7 +13,7 @@
   <tr>
     <td align:"center">
       <div align="center">
-      <a href="https://ostabo.com"><img style="justify-self:center" src="https://github-readme-stats.vercel.app/api?username=Ostabo&theme=algolia&count_private=true&show_icons=true" alt="Ostabo's github stats"></a>
+      <a href="https://ostabo.com"><img style="justify-self:center" src="./profile/stats.svg" alt="Ostabo's github stats"></a>
       </div>
     </td>
     <td rowspan=2>
