@@ -28,7 +28,7 @@
         👋 Hello Visitor Nr
       </div>
       <div align="center">
-        <img src="https://profile-counter.glitch.me/Ostabo/count.svg?" />
+        <img src="https://komarev.com/ghpvc/?username=Ostabo&style=for-the-badge" />
       </div>
     </td>
   </tr>
