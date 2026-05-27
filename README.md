@@ -45,7 +45,7 @@
   <tr>
     <td colspan="2">
       <div align="center">
-      <a href="https://ostabo.com"><img src="https://github-profile-trophy.vercel.app/?username=Ostabo&theme=algolia&count_private=true&row=1&margin-w=10" alt"Ostabo's Trophies"></a>
+      <a href="https://ostabo.com"><img src="./trophy.svg" alt"Ostabo's Trophies"></a>
       </div>
     </td>
   </tr>
