@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,docker,html,css,java,spring,vue,react,nodejs,nuxtjs,nextjs,vite,sass,bootstrap,tailwindcss,scala,maven,python,c,postgresql,git,github,githubactions,jenkins,idea,npm,pnpm,amazonwebservices,materialui,bitbucket,blender,dart,flutter,firebase,gitlab,less,latex,markdown,mysql,nginx,raspberrypi,rxjs,selenium,bash,supabase,vuetify,yarn,webpack,regex" />
+    <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,docker,html,css,java,spring,elasticsearch,prometheus,vuejs,react,nodejs,nestjs,nextjs,vite,sass,bootstrap,tailwindcss,scala,maven,python,c,postgresql,git,github,githubactions,jenkins,idea,npm,pnpm,amazonwebservices,bitbucket,blender,dart,flutter,firebase,gitlab,less,latex,markdown,mysql,nginx,raspberrypi,rxjs,selenium,cloudflare,supabase,vuetify,yarn,webpack,bash,googlecloud,terraform,nuxtjs,kubernetes,appwrite,rust,tauri,gradle" />
   </a>
 </div>
 
