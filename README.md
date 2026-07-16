@@ -3,7 +3,7 @@
 ### 📅 Currently I'm a...<br>
 <ul>
   <li>student@HTWG-Konstanz 👨‍🎓</li>
-  <li>student-trainee@<a href="https://skillworks.de">Skillworks-AG</a></li>
+  <li>Fullstack-Developer@<a href="https://skillworks.de">Skillworks-AG</a></li>
 </ul>
 
 ***
