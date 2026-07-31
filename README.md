@@ -74,9 +74,9 @@
 </picture>
 </div>
 <br/>
-<div align="center">
+<!--div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1lyg6oqikdo68gq8e5enlguul" />
-</div>
+</div-->
 
 ***
 
