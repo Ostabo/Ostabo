@@ -23,7 +23,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
-          output_path: trophy.svg
+          output_path: ./trophy.svg
           theme: algolia
           token: ${{ secrets.GITHUB_TOKEN }}
 
